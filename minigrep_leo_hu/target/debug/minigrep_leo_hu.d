@@ -1,0 +1,1 @@
+/home/leohu/Documents/TRPL/projects/minigrep_leo_hu/target/debug/minigrep_leo_hu: /home/leohu/Documents/TRPL/projects/minigrep_leo_hu/src/main.rs /home/leohu/Documents/TRPL/projects/minigrep_leo_hu/src/lib.rs
