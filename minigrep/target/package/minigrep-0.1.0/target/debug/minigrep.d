@@ -1,0 +1,1 @@
+/home/leohu/Documents/TRPL/projects/minigrep/target/package/minigrep-0.1.0/target/debug/minigrep: /home/leohu/Documents/TRPL/projects/minigrep/target/package/minigrep-0.1.0/src/lib.rs /home/leohu/Documents/TRPL/projects/minigrep/target/package/minigrep-0.1.0/src/main.rs
