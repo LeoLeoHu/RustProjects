@@ -1,0 +1,3 @@
+var searchIndex = {};
+searchIndex["minigrep"] = {"doc":"","items":[[3,"Config","minigrep","",null,null],[12,"query","","",0,null],[12,"filename","","",0,null],[12,"case_sensitive","","",0,null],[5,"run","","",null,{"inputs":[{"name":"config"}],"output":{"generics":["box"],"name":"result"}}],[5,"search","","",null,{"inputs":[{"name":"str"},{"name":"str"}],"output":{"generics":["str"],"name":"vec"}}],[5,"search_case_insensitive","","",null,{"inputs":[{"name":"str"},{"name":"str"}],"output":{"generics":["str"],"name":"vec"}}],[11,"new","","",0,{"inputs":[{"name":"args"}],"output":{"generics":["config","str"],"name":"result"}}]],"paths":[[3,"Config"]]};
+initSearch(searchIndex);
