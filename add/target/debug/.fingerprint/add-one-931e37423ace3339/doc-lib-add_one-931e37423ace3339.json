@@ -1,0 +1,1 @@
+{"rustc":10694955584413075917,"features":"[]","target":7635927623725215229,"profile":2941187341566091809,"path":652465830340624038,"deps":[["rand v0.3.22",13323598148357581416],["rand v0.3.22",11934282474569516629]],"local":[{"Precalculated":"1525097697.430101762s (/home/leohu/Documents/TRPL/projects/add/add-one/src/lib.rs)"}],"rustflags":[]}
